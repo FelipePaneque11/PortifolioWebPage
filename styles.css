@@ -261,7 +261,7 @@ footer p {
     margin-top: 100px;
   }
 
-  .home{
+  #home{
     display: none;
   }
 
@@ -285,7 +285,7 @@ footer p {
         padding: 0.2rem 0.5rem; /* Adjust the padding as needed */
     }
 
-    .home{
+    #home{
       display: none;
     }
 
