@@ -261,6 +261,10 @@ footer p {
     margin-top: 100px;
   }
 
+  .home{
+    display: none;
+  }
+
   #container_main{
     height: 80vh;
   }
