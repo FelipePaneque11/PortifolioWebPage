@@ -11,6 +11,7 @@
   --yt-red: #f70000;
 }
 
+
 .home {
     position: fixed; /* or use 'absolute' if you want it relative to a parent element */
     left: 10px; /* Adjust this value as needed to position it where you want */
